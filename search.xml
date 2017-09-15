@@ -31,10 +31,9 @@
     </entry>
     
     <entry>
-      <title></title>
+      <title><![CDATA[Leetcode 192 shellscript question]]></title>
       <url>/2017/09/15/Leetcode-shell-192/</url>
-      <content type="html"><![CDATA[<p>title: Leetcode Shell 192<br>date: 2017-09-15<br>categories: shell<br>tags: shellscript<br>keywords: shell leetcode<br>description: </p>
-<h1 id="Leetcode-192-BASH"><a href="#Leetcode-192-BASH" class="headerlink" title="Leetcode 192 BASH"></a>Leetcode 192 BASH</h1><p>虽然是个老头了，但打算今天开始刷leetcode，预防老年痴呆症，先做个shell的题热热身。<br>题目如下：</p>
+      <content type="html"><![CDATA[<h1 id="Leetcode-192-SHELLSCRIPT"><a href="#Leetcode-192-SHELLSCRIPT" class="headerlink" title="Leetcode 192 SHELLSCRIPT"></a>Leetcode 192 SHELLSCRIPT</h1><p>虽然是个老头了，但打算今天开始刷leetcode，预防老年痴呆症，先做个shell的题热热身。<br>题目如下：</p>
 <hr>
 <p>Write a bash script to calculate the frequency of each word in a text file <code>words.txt</code>.</p>
 <p>For simplicity sake, you may assume:</p>
@@ -52,6 +51,12 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sed <span class="string">'s/ /\n/g'</span> words.txt |sed <span class="string">'/^$/d'</span>|sort |uniq -c| sort -nr | awk <span class="string">'&#123;print $2,$1&#125;'</span></div></pre></td></tr></table></figure>
 ]]></content>
       
+        <categories>
+            
+            <category> shell </category>
+            
+        </categories>
+        
         
     </entry>
     
