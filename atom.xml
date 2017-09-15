@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.geek123.cc/"/>
-  <updated>2017-09-15T07:59:03.000Z</updated>
+  <updated>2017-09-15T08:21:25.000Z</updated>
   <id>http://blog.geek123.cc/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HEXO解析MD的一点小经验</title>
+    <link href="http://blog.geek123.cc/2017/09/15/hexo-parse-md/"/>
+    <id>http://blog.geek123.cc/2017/09/15/hexo-parse-md/</id>
+    <published>2017-09-15T08:20:19.000Z</published>
+    <updated>2017-09-15T08:21:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HEXO解析MD的一点小经验"><a href="#HEXO解析MD的一点小经验" class="headerlink" title="HEXO解析MD的一点小经验"></a>HEXO解析MD的一点小经验</h1><h3 id="标签前缀后要跟空格"><a href="#标签前缀后要跟空格" class="headerlink" title="标签前缀后要跟空格"></a>标签前缀后要跟空格</h3><p>例如分割线<code>- - -</code>前缀后要跟空格，否则<code>hexo g</code>会报错：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key at BLABLABLA</div></pre></td></tr></table></figure><hr><h3 id="渲染器差别"><a href="#渲染器差别" class="headerlink" title="渲染器差别"></a>渲染器差别</h3><p>行内代码块解析如下swig/nunjucks语法的代码时，会抛出异常：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">&#123;&#123; xxx &#125;&#125;</div><div class="line">&#123;% xxx %&#125;</div><div class="line">FATAL Something&apos;s wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html</div><div class="line">Template render error: (unknown path)</div></pre></td></tr></table></figure><p>解决办法使用块级代码。</p><hr><p>先这样吧，以后有新的发现会持续更新。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;HEXO解析MD的一点小经验&quot;&gt;&lt;a href=&quot;#HEXO解析MD的一点小经验&quot; class=&quot;headerlink&quot; title=&quot;HEXO解析MD的一点小经验&quot;&gt;&lt;/a&gt;HEXO解析MD的一点小经验&lt;/h1&gt;&lt;h3 id=&quot;标签前缀后要跟空格&quot;&gt;&lt;a hre
+      
+    
+    </summary>
+    
+      <category term="HEXO" scheme="http://blog.geek123.cc/categories/HEXO/"/>
+    
+    
+      <category term="markdown" scheme="http://blog.geek123.cc/tags/markdown/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
