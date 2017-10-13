@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.geek123.cc/"/>
-  <updated>2017-10-09T02:49:57.000Z</updated>
+  <updated>2017-10-13T03:26:42.000Z</updated>
   <id>http://blog.geek123.cc/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>🈚️印良品文具与其他厂商相近型号价格对比</title>
+    <link href="http://blog.geek123.cc/2017/10/13/muji-comp/"/>
+    <id>http://blog.geek123.cc/2017/10/13/muji-comp/</id>
+    <published>2017-10-13T03:26:42.000Z</published>
+    <updated>2017-10-13T03:26:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="无印良品与其他厂商相近型号价格对比"><a href="#无印良品与其他厂商相近型号价格对比" class="headerlink" title="无印良品与其他厂商相近型号价格对比"></a>无印良品与其他厂商相近型号价格对比</h1><table><thead><tr><th style="text-align:center">无印良品</th><th style="text-align:center">价格</th><th style="text-align:center">其他品牌</th><th style="text-align:center">价格</th></tr></thead><tbody><tr><td style="text-align:center">流质荧光笔</td><td style="text-align:center">10</td><td style="text-align:center">斑马WKP1</td><td style="text-align:center">5</td></tr><tr><td style="text-align:center">按压式荧光笔</td><td style="text-align:center">13</td><td style="text-align:center">派通SXS15</td><td style="text-align:center">6</td></tr><tr><td style="text-align:center">透明窗口荧光笔</td><td style="text-align:center">13</td><td style="text-align:center">三菱PUS-102T</td><td style="text-align:center">6</td></tr><tr><td style="text-align:center">单孔削笔刀</td><td style="text-align:center">10</td><td style="text-align:center">三菱DPS-101</td><td style="text-align:center">10</td></tr><tr><td style="text-align:center">低重心自动铅笔</td><td style="text-align:center">47</td><td style="text-align:center">派通pt51x</td><td style="text-align:center">38</td></tr><tr><td style="text-align:center">卷纸橡皮</td><td style="text-align:center">6.5</td><td style="text-align:center">三菱EK-100</td><td style="text-align:center">10</td></tr><tr><td style="text-align:center">订书机</td><td style="text-align:center">40</td><td style="text-align:center">普乐士 plus-st-010VH</td><td style="text-align:center">28</td></tr><tr><td style="text-align:center">抗疲劳自动铅笔</td><td style="text-align:center">22</td><td style="text-align:center">斑马MA19</td><td style="text-align:center">11.5</td></tr><tr><td style="text-align:center">三色圆珠笔+铅笔</td><td style="text-align:center">36</td><td style="text-align:center">Platinum 白金MWB-300</td><td style="text-align:center">12.8</td></tr><tr><td style="text-align:center">按动橡皮</td><td style="text-align:center">13</td><td style="text-align:center">三菱</td><td style="text-align:center">6</td></tr><tr><td style="text-align:center">六角自动铅笔</td><td style="text-align:center">45</td><td style="text-align:center">斑马MA53</td><td style="text-align:center">18.8</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;无印良品与其他厂商相近型号价格对比&quot;&gt;&lt;a href=&quot;#无印良品与其他厂商相近型号价格对比&quot; class=&quot;headerlink&quot; title=&quot;无印良品与其他厂商相近型号价格对比&quot;&gt;&lt;/a&gt;无印良品与其他厂商相近型号价格对比&lt;/h1&gt;&lt;table&gt;
+&lt;thea
+      
+    
+    </summary>
+    
+      <category term="文具" scheme="http://blog.geek123.cc/categories/%E6%96%87%E5%85%B7/"/>
+    
+    
+      <category term="文具， 无印良品" scheme="http://blog.geek123.cc/tags/%E6%96%87%E5%85%B7%EF%BC%8C-%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>渗透测试资讯站收集</title>
+    <link href="http://blog.geek123.cc/2017/10/09/pentest-news/"/>
+    <id>http://blog.geek123.cc/2017/10/09/pentest-news/</id>
+    <published>2017-10-09T07:54:46.000Z</published>
+    <updated>2017-10-09T07:54:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="13个有用的渗透测试资源博客"><a href="#13个有用的渗透测试资源博客" class="headerlink" title="13个有用的渗透测试资源博客"></a>13个有用的渗透测试资源博客</h1><p>渗透测试是寻找能够用来攻击应用程序、网络和系统的漏洞的过程，其目的是检测会被黑客攻击的安全脆弱点。渗透测试可以检测如下内容：系统对攻击的反应，存在哪些会被攻击的脆弱点，如果有，系统中哪些数据会被窃取。</p><h2 id="关于渗透测试"><a href="#关于渗透测试" class="headerlink" title="关于渗透测试"></a>关于渗透测试</h2><p>不要将渗透测试等同于简单的漏洞扫描或者安全审计，它还要除此之外的工作。渗透测试有助于寻找非常复杂的攻击向量，找到在开发阶段没能检测出来的漏洞。在遭到入侵之后，也常使用渗透测试，检测攻击者的攻击方法，还原出攻击方法，并阻止与此相同的攻击。</p><p>渗透测试是一些安全审计的主要构成部分，包括<a href="https://www.checkmarx.com/white_papers/how-to-achive-pci-dss-compliance-with-checkmarx-source-code-analysis/" target="_blank" rel="external">PCI-DSS规则</a>，它要求对处理或保存支付信息的系统每年进行渗透测试。渗透测试人员会协同使用人工和自动测试，利用大量的工具进行测试。</p><p>由于安全世界的动态性，以及黑客的变化性，安全专家需要掌握最新的技术、工具和漏洞利用方法，以及渗透测试技术。应用程序安全是一个新领域，物联网、容器、云等新的安全风险不断出现，渗透测试人员需要不断更新自己的知识。</p><p>因此，我们提供13个最有用的渗透测试博客，帮你获取最新知识，激励你的白帽人生。其中一些有好几年的渗透测试历程了。他们都值得你关注和学习。</p><p><a href="http://image.3001.net/images/20160831/14726207762774.png" target="_blank" rel="external"><img src="http://image.3001.net/images/20160831/14726207762774.png!small" alt="“If-I-had-6-h-to-chop-down-a-tree-I’d-spend-the-first-four-of-them-sharpening-my-axe.”-1.png"></a></p><h2 id="渗透测试博客和资源排名"><a href="#渗透测试博客和资源排名" class="headerlink" title="渗透测试博客和资源排名"></a>渗透测试博客和资源排名</h2><p><a href="http://carnal0wnage.attackresearch.com/" target="_blank" rel="external">Carnal0wnage</a></p><p>这个博客是由一个攻击研究团队维护的，是渗透测试人员最好的信息来源之一，博客上发布了渗透测试技术、发现、新闻等等。该团队在Black Hat上开设了培训课程。</p><p><a href="https://www.pentestgeek.com/" target="_blank" rel="external">PentestGeek</a></p><p>2012年开始活跃，PentestGeek博客致力于分享作者的经验。通过它也可以了解在大公司工作的经验丰富的渗透测试者的每日工作。</p><p><a href="http://www.darknet.org.uk/" target="_blank" rel="external">Darknet</a></p><p>1999年从一个IRC频道开始发展壮大，目前是一个定期更新的博客，讨论最新的渗透测试新闻、工具和技术，有30,000多个用户。</p><p><a href="http://www.lanmaster53.com/" target="_blank" rel="external">Lanmaster53</a></p><p>Tim Tomes维护的博客，Tim在博客中会详细描述他的研究成果，博客内容覆盖从Linux Shells、DEFCON badge hacking到AppSec hacks。</p><p><a href="http://marcoramilli.blogspot.co.il/" target="_blank" rel="external">Marco Ramilli</a></p><p>Marco是一个安全研究者和白帽黑客。他在教育界也很有名气，在数十年的工作经历中担任了各种教授和研究员职位。他的博客是对他的知识的扩展，Macro在博客上记录他发现的一些绝妙的技术。</p><p><a href="http://www.commonexploits.com/" target="_blank" rel="external">Common Exploits</a></p><p>由Daniel Compton维护，他是有20年的透测试经验的专家，Common Exploits旨在分享Daniel的技术，工具、漏洞利用方面的新闻，以及其它渗透测试领域的内容。</p><p><a href="http://pen-testing.sans.org/blog/pen-testing" target="_blank" rel="external">SANS Penetration Testing Blog</a></p><p>SANS对于应用程序安全方面的人来说是一个非常好的资源。这个博客上可以找到各种渗透测试任务和挑战，用于测试你的能力，也会发布特定的渗透测试工具和技术。</p><p><a href="https://blog.trailofbits.com/" target="_blank" rel="external">Trail of Bits Blog</a></p><p>由维护Trails of Bits的团队写的博客，这是一个在攻防领域都很专业的安全公司，这个博客收集了他们分享的知识，帮助企业改进或修复安全问题。</p><p><a href="http://www.digininja.org/" target="_blank" rel="external">DigiNinja</a></p><p>Digininja对渗透测试者来说是一个必须要知道的资源，主要关注Metasploit、Wifi和网络，Digininja是信息安全领域的人必读的网站。</p><p><a href="https://www.linkedin.com/groups/81676" target="_blank" rel="external">Ethical Hacking LinkedIn Group</a></p><p>最好的获取最新渗透测试新闻的办法是，在你喜欢的社交网站中，加入到一个组里面或者关注渗透测试大牛。Ethical Hacking group是众多社区中的一个，你可以加入并分享你自己的渗透测试资源。</p><p><a href="http://www.ehacking.net/" target="_blank" rel="external">EHacking.net</a></p><p>对所有渗透测试相关人员来说是一个非常棒的资源，Ehacking.net是又一个必须加入到书签的网站。</p><p><a href="http://seclists.org/" target="_blank" rel="external">Seclists.org</a></p><p>现在，依然有一部分信息安全社区依靠邮件列表获取信息，尽管这看起来有些过时。Nmap Security Scanner人员运营着Seclists.org网站，提供了受欢迎的邮件列表的清单。不管是菜鸟还是渗透测试专家都可以找到适合自己的邮件列表。</p><p><a href="http://www.kitploit.com/" target="_blank" rel="external">Kitploit</a></p><p>如果你在寻找特定类型的工具，你可以在Kitploit网站上找到。这里是渗透测试工具的宝库，把它加入到你的书签吧。</p><p><strong>* 参考来源：checkmarx，felix编译，转载自FreeBuf黑客与极客（FreeBuf.COM）</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;13个有用的渗透测试资源博客&quot;&gt;&lt;a href=&quot;#13个有用的渗透测试资源博客&quot; class=&quot;headerlink&quot; title=&quot;13个有用的渗透测试资源博客&quot;&gt;&lt;/a&gt;13个有用的渗透测试资源博客&lt;/h1&gt;&lt;p&gt;渗透测试是寻找能够用来攻击应用程序、网络和系
+      
+    
+    </summary>
+    
+      <category term="渗透" scheme="http://blog.geek123.cc/categories/%E6%B8%97%E9%80%8F/"/>
+    
+    
+      <category term="渗透, 资讯" scheme="http://blog.geek123.cc/tags/%E6%B8%97%E9%80%8F-%E8%B5%84%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>Leetcode 192 shellscript question</title>

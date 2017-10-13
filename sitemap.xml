@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.geek123.cc/2017/10/13/muji-comp/</loc>
+    
+    <lastmod>2017-10-13T03:26:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.geek123.cc/2017/10/09/pentest-news/</loc>
+    
+    <lastmod>2017-10-09T07:54:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.geek123.cc/2017/10/09/Sqlmap_manual/</loc>
     
     <lastmod>2017-10-09T02:51:22.000Z</lastmod>
